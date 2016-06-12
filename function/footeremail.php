@@ -50,7 +50,7 @@ if( isset( $_POST['quick-contact-form-submit'] ) AND $_POST['quick-contact-form-
     
 } else {
 
-    echo '<div class="alert alert-error"><button type="button" class="close" data-dismiss="alert">&times;</button>An <strong>unexpected error</strong> occured. Please Try Again later.</div>';
+    echo '<div class="alert alert-error"><button type="button" class="close" data-dismiss="alert">&times;</button>An <strong>unexpected error</strong> occurred. Please Try Again later.</div>';
 
 }
 
